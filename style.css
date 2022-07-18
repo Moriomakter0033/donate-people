@@ -1,0 +1,129 @@
+body{
+    font-family: 'Lato', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+h1{font-size: 40px;
+    text-align: center;
+    color: aliceblue;
+
+   
+}
+#first-section{
+    background-image: url(donation0000.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: darken;
+    background-color:linear-gradient(rgba(0, 0, 0, 0.527),rgba(0,0,0,0.5));
+    height:600px;
+
+}
+.center-align{
+    text-align: center;
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-top: 4%;
+    color: white;
+}
+.link-donate{
+    color: aliceblue;
+    text-decoration: none;
+    padding: 10px 25px;
+     border-width:700 ;
+    border-radius: 5%;
+    
+    background-image: linear-gradient(orange,rgb(238, 68, 38));
+
+}
+.donate-today{
+    text-align: center;
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-top: 4%;
+    color: black;
+    
+}
+.donate-today-tk{
+    display: flex;
+    padding-top: 5%;
+    text-align: center;
+    margin-bottom:5%;
+}
+.tk-1{
+    background-color:burlywood;
+    padding:40px 40px 40px 40px;
+    width: 20px;
+    margin-left:80px;  
+}
+.tk-2{
+    background-color: burlywood;
+    padding:40px 40px 40px 40px;
+    width: 20px;
+    margin-left: 60px;
+}
+.tk-3{
+    background-color: burlywood;
+    padding:40px 40px 40px 40px;
+    width: 20px;
+    margin-left: 60px;
+    
+}
+.tk-4{
+    background-color: burlywood;
+    padding:40px 40px 40px 40px;
+    margin-left: 60px;
+  
+}
+.tk-5{
+    background-color: burlywood;
+    padding:40px 40px 40px 40px;
+    width: 20px;
+    margin-left: 70px
+    
+}
+.link-donate-2{
+
+    color: aliceblue;
+    text-decoration: none;
+    padding: 10px 25px;
+    
+    border-radius: 5%;
+    
+    background-image: linear-gradient(orange,rgb(238, 68, 38));
+}
+.donation-plan{
+    text-align: center;
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-top: 4%;
+   
+}
+#section-2{
+    margin-top: 5%;
+}
+.container{
+    display: flex;
+    
+}
+#food{
+    background-color: rgba(185, 209, 188, 0.842);
+    padding:10px 30px ;
+    text-align: left;
+    
+    margin-left:20px;
+}
+#shelter{
+
+    background-color:pink;
+    padding:10px 30px ;
+    margin-left:20px;
+}
+#education{
+    background-color:rgb(187, 169, 219);
+    padding:10px 30px ;
+    margin-left:20px;
+    margin-right: 20px;
+}
+.image{
+    width:30%
+  
+}
